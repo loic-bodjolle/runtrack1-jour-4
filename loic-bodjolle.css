@@ -1,0 +1,68 @@
+
+.flexbox {
+    display:flex;
+    justify-content: space-between;
+
+}
+.flexcentre {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+
+
+.bannierehaut {
+    display: flex;
+    align-items: flex-end;
+    justify-content: end; 
+}
+
+p {
+    font-size: 80%;   
+}
+
+.textblc {
+    color:white;  
+}
+
+.banniereblc {background-color:white;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: rgb(63, 135, 184);
+    margin: 0px;
+}
+
+h1 {
+    font-size: 200%;
+    color: white;
+}
+
+.margedroite {
+    margin-right: 20px;
+}
+.margegauche {
+    margin-left: 20px;
+}
+
+
+h2 {
+    font-size: 85%;
+    color:rgb(160, 194, 202)  
+}
+
+h3 {
+    font-size: 75%;
+    color: white;
+    background-color: rgb(247, 178, 49);
+    width: 41%;
+    height: 100%;
+    margin-left: 150px;
+    border-radius: 30px;
+   
+}
+
